@@ -1,0 +1,15 @@
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/dao/HangmanDao.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/dao/HangmanPersistenceException.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/ui/UserIO.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/dto/Word.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/dao/HangmanAuditDaoFileImpl.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/service/HangmanDuplicateWordException.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/service/HangmanDataValidationException.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/dao/HangmanAuditDao.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/service/HangmanServiceLayerImpl.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/App.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/service/HangmanServiceLayer.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/dao/HangmanDaoFileImpl.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/controller/HangmanController.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/ui/UserIOConsoleImpl.java
+/Users/boburmurtozaev/NetBeansProjects/Hangman-master/src/main/java/com/sg/hangman/ui/HangmanView.java
